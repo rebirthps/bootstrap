@@ -84,16 +84,10 @@
   ],
   "artifacts": [
     {
-      "hash": "93031ffbcb05821fbda9110f42771913ab60779c229146db995162202d8954f2",
+      "hash": "e2e518f9c497d9e18bae45fdaac4dc3edb74bd51e8a9990bedeb96b07e5a19af",
       "name": "game.jar",
       "path": "https://raw.githubusercontent.com/rebirthps/bootstrap/master/client/live/repo/game.jar",
-      "size": 64561338
-    },
-    {
-      "hash": "19ff409c8ba90c3541e561c8c18257c22df655dab4822083c203a127b4582196",
-      "name": "javafx-web-11.0.2-win.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-web/11.0.2/javafx-web-11.0.2-win.jar",
-      "size": 25451932
+      "size": 64595210
     },
     {
       "hash": "f46dffcf9ffc477a98cb64954fd906852df2faf3d3b428c06d1396d5c8949707",
@@ -102,16 +96,16 @@
       "size": 127395
     },
     {
-      "hash": "2abbc62d9b2830d46997531ec404bb2fae1176604ff2b19eb716a3b33eadc527",
-      "name": "javafx-controls-11.0.2-win.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/11.0.2/javafx-controls-11.0.2-win.jar",
-      "size": 2511137
+      "hash": "b2896377370132993cbc61d18fc65c4634ca771f3d1dd2c69db8bf81ce798770",
+      "name": "javafx-swing-11.0.2-win.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-swing/11.0.2/javafx-swing-11.0.2-win.jar",
+      "size": 119848
     },
     {
-      "hash": "60106c2cf52a7f31eca1b8d08a952cf4b93b5b1d85492a755e97a0808a69ff9a",
-      "name": "javafx-controls-11.0.2.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/11.0.2/javafx-controls-11.0.2.jar",
-      "size": 306
+      "hash": "19ff409c8ba90c3541e561c8c18257c22df655dab4822083c203a127b4582196",
+      "name": "javafx-web-11.0.2-win.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-web/11.0.2/javafx-web-11.0.2-win.jar",
+      "size": 25451932
     },
     {
       "hash": "894ed28a5e741c0b452f5994cada93ebead2dc0a66102d02216dc8f7674df211",
@@ -126,10 +120,16 @@
       "size": 303
     },
     {
-      "hash": "b2896377370132993cbc61d18fc65c4634ca771f3d1dd2c69db8bf81ce798770",
-      "name": "javafx-swing-11.0.2-win.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-swing/11.0.2/javafx-swing-11.0.2-win.jar",
-      "size": 119848
+      "hash": "2abbc62d9b2830d46997531ec404bb2fae1176604ff2b19eb716a3b33eadc527",
+      "name": "javafx-controls-11.0.2-win.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/11.0.2/javafx-controls-11.0.2-win.jar",
+      "size": 2511137
+    },
+    {
+      "hash": "60106c2cf52a7f31eca1b8d08a952cf4b93b5b1d85492a755e97a0808a69ff9a",
+      "name": "javafx-controls-11.0.2.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/11.0.2/javafx-controls-11.0.2.jar",
+      "size": 306
     },
     {
       "hash": "853109f747709bc31e9298baf531c84dbda1764fe24533390635aa4049cfb29b",
@@ -598,14 +598,14 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game.jar": "93031ffbcb05821fbda9110f42771913ab60779c229146db995162202d8954f2",
-    "javafx-web-11.0.2-win.jar": "19ff409c8ba90c3541e561c8c18257c22df655dab4822083c203a127b4582196",
+    "game.jar": "e2e518f9c497d9e18bae45fdaac4dc3edb74bd51e8a9990bedeb96b07e5a19af",
     "javafx-fxml-11.0.2-win.jar": "f46dffcf9ffc477a98cb64954fd906852df2faf3d3b428c06d1396d5c8949707",
-    "javafx-controls-11.0.2-win.jar": "2abbc62d9b2830d46997531ec404bb2fae1176604ff2b19eb716a3b33eadc527",
-    "javafx-controls-11.0.2.jar": "60106c2cf52a7f31eca1b8d08a952cf4b93b5b1d85492a755e97a0808a69ff9a",
+    "javafx-swing-11.0.2-win.jar": "b2896377370132993cbc61d18fc65c4634ca771f3d1dd2c69db8bf81ce798770",
+    "javafx-web-11.0.2-win.jar": "19ff409c8ba90c3541e561c8c18257c22df655dab4822083c203a127b4582196",
     "javafx-media-11.0.2-win.jar": "894ed28a5e741c0b452f5994cada93ebead2dc0a66102d02216dc8f7674df211",
     "javafx-media-11.0.2.jar": "6ee2e8b3c931dbb98d98bb95aa82033fdb6f43cdfd569e60613db5834629d025",
-    "javafx-swing-11.0.2-win.jar": "b2896377370132993cbc61d18fc65c4634ca771f3d1dd2c69db8bf81ce798770",
+    "javafx-controls-11.0.2-win.jar": "2abbc62d9b2830d46997531ec404bb2fae1176604ff2b19eb716a3b33eadc527",
+    "javafx-controls-11.0.2.jar": "60106c2cf52a7f31eca1b8d08a952cf4b93b5b1d85492a755e97a0808a69ff9a",
     "javafx-graphics-11.0.2-win.jar": "853109f747709bc31e9298baf531c84dbda1764fe24533390635aa4049cfb29b",
     "javafx-graphics-11.0.2.jar": "dee900a186a70bae8266845c56b03ad9a24e697cb52ba3da421c6049089b3638",
     "javafx-base-11.0.2-win.jar": "612f5f2e4a683848654f39ab90664770a8d49b3d3ab9c231d47bbcab6a2cce63",
