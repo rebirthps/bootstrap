@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Normal",
+    "main": "net.runelite.client.Rebirth",
+    "bootstrap": "https://raw.githubusercontent.com/rebirthps/bootstrap/master/client/live/bootstrap.json",
+    "bootstrapsig": "https://raw.githubusercontent.com/rebirthp/bootstrap/master/client/live/bootstrap.json.sha256",
+    "tooltip": ""
+  }
+]
